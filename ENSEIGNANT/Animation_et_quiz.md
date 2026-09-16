@@ -124,27 +124,11 @@ Lorsqu'un étudiant termine :
 
 ---
 
-# Vendredi — Présentations
+# Jeudi — Bilan facultatif de fin de semaine
 
-Demander à chaque groupe de montrer rapidement :
+Si le rythme de la classe le permet, terminer par quelques questions identiques au diagnostic du lundi. La comparaison est plus intéressante qu'un score isolé.
 
-- arborescence ;
-- accueil ;
-- navigation ;
-- une page de contenu ;
-- une difficulté ;
-- une correction issue de la recette ;
-- contribution de chaque membre.
-
-Le but n'est pas d'élire un « meilleur site » mais de vérifier compréhension et progression.
-
----
-
-# Quiz final
-
-Reprendre plusieurs questions identiques au diagnostic du lundi. La comparaison est plus intéressante qu'un score isolé.
-
-Ajouter :
+Questions complémentaires possibles :
 
 1. Que contient généralement `body` ?
 2. Comment relier `index.html` à `contact.html` dans le même dossier ?
