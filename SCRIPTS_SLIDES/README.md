@@ -25,7 +25,13 @@ Les temps de démonstration, les quiz, les exercices et les phases de pratique n
 
 **Total : 168 slides, soit environ 7 heures de contenu projeté.**
 
-Le reste de la semaine est volontairement réservé à la pratique. Pour ce public débutant, le cours ne doit jamais absorber les 32 heures disponibles.
+Le reste des **24 heures** est volontairement réservé à la pratique. Pour ce public débutant, le cours projeté ne doit jamais absorber l'essentiel du temps disponible.
+
+## Répartition conseillée sur les trois journées
+
+- **Lundi** : présentations 1 à 4, entrecoupées de quiz, échanges et activités.
+- **Mardi** : présentations 5, 6 et début de la 7, avec de nombreuses manipulations dans VS Code.
+- **Jeudi** : fin de la présentation 7 et présentation 8, puis surtout consolidation, exercices différenciés et atelier multi-pages.
 
 ## Convention de rédaction pour Gamma
 
