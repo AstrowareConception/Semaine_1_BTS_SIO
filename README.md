@@ -24,6 +24,7 @@ Suivez simplement les journées dans l'ordre :
 Documents généraux :
 
 - [Programme complet des 32 heures](PROGRAMME_SEMAINE.md)
+- [Planning horaire détaillé des quatre journées](PLANNING_HORAIRE.md)
 - [Objectifs pédagogiques et lien avec le BTS SIO](OBJECTIFS.md)
 - [Glossaire des mots nouveaux](RESSOURCES/Glossaire.md)
 - [Mémo HTML](RESSOURCES/Memo_HTML.md)
