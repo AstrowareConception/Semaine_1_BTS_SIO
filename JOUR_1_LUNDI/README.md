@@ -72,6 +72,10 @@ Nous reprenons les notions du matin avant d'ajouter :
 - HTTP ;
 - quelques codes de réponse.
 
+Support dédié :
+
+- [Histoire simplifiée d'Internet et du Web](03_Histoire_Internet_Web.md)
+
 Nous terminerons avec un jeu de rôles où la classe représentera physiquement le fonctionnement simplifié du Web.
 
 ---
