@@ -1,12 +1,11 @@
-# Programme de la semaine — 32 heures
+# Programme de la semaine — 24 heures
 
 ## Organisation
 
 - **Lundi : 8 h**
 - **Mardi : 8 h**
-- **Mercredi : pas de séance dans cette semaine intensive**
+- **Mercredi : pas de séance**
 - **Jeudi : 8 h**
-- **Vendredi : 8 h**
 
 Chaque journée est divisée en deux demi-journées de 4 h. Les horaires exacts de pause peuvent être adaptés par l'enseignant.
 
@@ -164,58 +163,9 @@ Organisation et lisibilité du code.
 
 Le niveau Essentiel représente le socle attendu. Les challenges ne sont pas obligatoires.
 
-### Séquence 8 — Galerie de travaux
+### Séquence 8 — Galerie de travaux et bilan
 
-Observation des réalisations des autres et échange d'astuces.
-
----
-
-# Vendredi — Produire, tester et présenter
-
-## Matin — 4 h
-
-### Mini-projet : Guide de survie numérique du nouvel étudiant en BTS SIO
-
-Par petits groupes, réalisation d'un mini-site HTML présentant certaines notions découvertes durant la semaine.
-
-Étapes :
-
-1. comprendre le besoin ;
-2. organiser les fichiers ;
-3. répartir le travail ;
-4. écrire les pages ;
-5. vérifier les liens et les images ;
-6. améliorer la lisibilité.
-
----
-
-## Après-midi — 4 h
-
-### Séquence 1 — Recette croisée
-
-Une autre équipe teste le site à partir d'une checklist.
-
-### Séquence 2 — Corrections
-
-Prise en compte des problèmes détectés.
-
-### Séquence 3 — Présentation rapide
-
-Chaque groupe explique :
-
-- son site ;
-- son organisation ;
-- une difficulté ;
-- sa solution ;
-- la contribution de chacun.
-
-### Séquence 4 — Challenge final et quiz de progression
-
-Retour sur certaines questions du lundi pour mesurer les apprentissages.
-
-### Séquence 5 — Bilan individuel
-
-Chaque étudiant identifie ce qu'il sait désormais faire et ce qu'il devra encore travailler.
+Observation des réalisations des autres, échange d'astuces et retour rapide sur ce que chacun sait désormais refaire seul ou avec un modèle.
 
 ---
 
