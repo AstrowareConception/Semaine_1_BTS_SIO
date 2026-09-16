@@ -30,6 +30,10 @@ Documents généraux :
 - [Mémo HTML](RESSOURCES/Memo_HTML.md)
 - [Je suis bloqué : que faire ?](RESSOURCES/Je_suis_bloque.md)
 
+Supports de cours projetés :
+
+- [Scripts détaillés des présentations — format Gamma](SCRIPTS_SLIDES/README.md)
+
 ---
 
 ## Ce que vous saurez faire vendredi soir
