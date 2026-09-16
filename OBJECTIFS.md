@@ -2,9 +2,11 @@
 
 ## Une semaine de fondations
 
-Cette première semaine n'a pas pour objectif de transformer un débutant en développeur. Elle doit installer un vocabulaire, des représentations correctes et quelques gestes techniques de base.
+Cette première semaine intensive représente **24 heures de cours réparties sur trois journées : lundi, mardi et jeudi**.
 
-Un étudiant qui termine la semaine en étant capable de construire seul trois pages HTML reliées entre elles, de ranger correctement ses fichiers et d'expliquer simplement ce qu'est une requête Web a déjà accompli un travail important.
+Elle n'a pas pour objectif de transformer un débutant en développeur. Elle doit installer un vocabulaire, des représentations correctes et quelques gestes techniques de base.
+
+Un étudiant qui termine la semaine en étant capable de construire seul plusieurs pages HTML reliées entre elles, de ranger correctement ses fichiers et d'expliquer simplement ce qu'est une requête Web a déjà accompli un travail important.
 
 ---
 
@@ -45,7 +47,7 @@ L'étudiant doit progressivement être capable de :
 - comprendre un chemin de fichier simple ;
 - créer plusieurs pages et les relier ;
 - repérer quelques erreurs courantes ;
-- tester une réalisation à l'aide d'une checklist ;
+- relire une réalisation à l'aide d'une checklist simple ;
 - expliquer oralement son travail.
 
 ---
@@ -62,8 +64,7 @@ Dès cette première semaine, nous travaillons également des habitudes qui rest
 - décrire précisément un problème lorsqu'on demande de l'aide ;
 - tester avant d'annoncer qu'un travail est terminé ;
 - accepter la relecture d'un autre étudiant ;
-- aider sans faire à la place de l'autre ;
-- être capable de distinguer sa contribution personnelle dans un travail collectif.
+- aider sans faire à la place de l'autre.
 
 ---
 
@@ -82,7 +83,7 @@ Elle prépare cependant plusieurs dimensions du bloc commun **Support et mise à
 - les tests d'un service ;
 - la constitution d'un environnement d'apprentissage personnel.
 
-Le référentiel prévoit également des compétences de cybersécurité et de protection des données. Elles seront travaillées progressivement au cours de la formation ; elles ne sont volontairement pas condensées dans ces quatre premières journées.
+Le référentiel prévoit également des compétences de cybersécurité et de protection des données. Elles seront travaillées progressivement au cours de la formation ; elles ne sont volontairement pas condensées dans ces trois premières journées.
 
 ---
 
