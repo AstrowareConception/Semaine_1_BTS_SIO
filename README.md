@@ -12,19 +12,18 @@ L'objectif n'est pas d'aller vite. L'objectif est de comprendre, pratiquer, se t
 
 ## Comment utiliser ce dépôt ?
 
-Ce dépôt est votre **guide de travail pour toute la semaine**. Vous pouvez revenir dessus à tout moment.
+Ce dépôt est votre **guide de travail pour toute la semaine intensive**. Vous pouvez revenir dessus à tout moment.
 
-Suivez simplement les journées dans l'ordre :
+La semaine comporte **24 heures de cours**, réparties sur trois journées :
 
 1. [Lundi — Comprendre l'informatique, Internet et le Web](JOUR_1_LUNDI/README.md)
 2. [Mardi — Installer son environnement et écrire ses premières pages HTML](JOUR_2_MARDI/README.md)
 3. [Jeudi — Consolider le HTML et construire un petit site de plusieurs pages](JOUR_3_JEUDI/README.md)
-4. [Vendredi — Réaliser, tester et présenter un mini-projet HTML](JOUR_4_VENDREDI/README.md)
 
 Documents généraux :
 
-- [Programme complet des 32 heures](PROGRAMME_SEMAINE.md)
-- [Planning horaire détaillé des quatre journées](PLANNING_HORAIRE.md)
+- [Programme complet des 24 heures](PROGRAMME_SEMAINE.md)
+- [Planning horaire détaillé des trois journées](PLANNING_HORAIRE.md)
 - [Objectifs pédagogiques et lien avec le BTS SIO](OBJECTIFS.md)
 - [Glossaire des mots nouveaux](RESSOURCES/Glossaire.md)
 - [Mémo HTML](RESSOURCES/Memo_HTML.md)
@@ -36,9 +35,9 @@ Supports de cours projetés :
 
 ---
 
-## Ce que vous saurez faire vendredi soir
+## Ce que vous devriez savoir faire jeudi soir
 
-À la fin de la semaine, vous devriez être capable de :
+À la fin de la semaine intensive, vous devriez être capable de :
 
 - expliquer avec des mots simples la différence entre **Internet** et **le Web** ;
 - expliquer les rôles d'un navigateur, d'un client et d'un serveur ;
@@ -50,8 +49,7 @@ Supports de cours projetés :
 - utiliser des titres, paragraphes, listes, liens et images ;
 - créer plusieurs pages HTML et les relier entre elles ;
 - comprendre et corriger quelques erreurs fréquentes ;
-- tester le travail d'un camarade avec une checklist ;
-- expliquer ce que vous avez réalisé et les difficultés rencontrées.
+- relire le travail d'un camarade et expliquer ce que vous avez réalisé.
 
 Il ne vous est pas demandé de tout retenir immédiatement. Les notions seront réutilisées tout au long de votre formation.
 
@@ -114,14 +112,12 @@ Vous aurez besoin de :
 
 ## Votre fil rouge
 
-Au fil de la semaine vous allez passer de :
+Au fil des trois journées, vous allez passer de :
 
 > « J'utilise des sites Web. »
 
 à :
 
-> « Je comprends globalement comment ils me parviennent et je suis capable de construire moi-même un petit site HTML. »
-
-Vendredi, vous réaliserez un mini-projet : **le Guide de survie numérique du nouvel étudiant en BTS SIO**.
+> « Je comprends globalement comment ils me parviennent et je suis capable de construire moi-même un petit site HTML de plusieurs pages. »
 
 Bonne première semaine.
