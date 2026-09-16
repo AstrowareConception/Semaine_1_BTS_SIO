@@ -1,0 +1,155 @@
+# Guide enseignant — Animation et quiz
+
+Ce document complète les supports étudiants. Il propose des activités sociales et des questions courtes sans modifier la progression débutante du groupe.
+
+# Principes d'animation
+
+Avec plus de vingt étudiants et des niveaux très disparates :
+
+- annoncer explicitement que le cours principal suit le rythme des débutants ;
+- donner des challenges aux étudiants rapides sans transformer ces challenges en prérequis ;
+- prévoir régulièrement des plages de 30 à 60 minutes sans nouvelle notion afin de circuler ;
+- faire verbaliser les blocages ;
+- encourager l'entraide sans prise de contrôle du clavier ;
+- utiliser des binômes variables afin d'éviter que les mêmes étudiants deviennent constamment « techniciens de secours ».
+
+---
+
+# Lundi — Quiz diagnostic possible
+
+Questions Wooclap/Kahoot :
+
+1. Internet et le Web sont exactement la même chose. Vrai/Faux.
+2. Lequel est un navigateur ? Chrome / Google / HTML / DNS.
+3. À quoi sert principalement DNS dans notre modèle simplifié ?
+4. Un serveur Web reçoit des requêtes. Vrai/Faux.
+5. Le code 404 signifie-t-il automatiquement qu'Internet est coupé ?
+6. Une adresse comme `https://exemple.fr/page.html` est une URL. Vrai/Faux.
+7. HTML est-il un navigateur ?
+8. Un smartphone peut-il être un client d'un service Internet ?
+
+Ne pas commenter la « note ». Utiliser les réponses pour ajuster les explications.
+
+---
+
+# Icebreaker — Bingo informatique
+
+Préparer une grille contenant par exemple :
+
+- a déjà écrit du code ;
+- n'a jamais écrit de code ;
+- a déjà installé Linux ;
+- joue en ligne ;
+- connaît le mot DNS ;
+- ne sait pas encore expliquer une adresse IP ;
+- a déjà créé un site ;
+- utilise Firefox ;
+- a déjà changé un composant PC ;
+- connaît plusieurs langages de programmation de nom.
+
+Objectif : interaction et diagnostic informel, pas compétition.
+
+---
+
+# Lundi — Web humain
+
+Rôles possibles :
+
+- utilisateur ;
+- navigateur ;
+- DNS ;
+- routeur/réseau ;
+- serveur.
+
+Faire circuler des cartes « requête » et « réponse ».
+
+Scénarios :
+
+1. succès — 200 ;
+2. fichier absent — 404 ;
+3. erreur serveur — 500 ;
+4. échec de résolution de nom.
+
+Rester sur le modèle simplifié et préciser qu'il existe de nombreuses étapes supplémentaires dans un échange réel.
+
+---
+
+# Mardi — Micro-quiz HTML
+
+1. Quelle partie contient le contenu visible principal : `head` ou `body` ?
+2. Quelle balise représente un paragraphe ?
+3. Quelle balise crée un lien ?
+4. À quoi sert `href` ?
+5. À quoi sert `src` sur une image ?
+6. Pourquoi renseigner `alt` ?
+7. Différence entre `ul` et `ol` ?
+8. Dans quel dossier se trouve `photo.jpg` si `src="images/photo.jpg"` ?
+
+---
+
+# Jeudi — Réactivation
+
+Faire afficher volontairement plusieurs extraits comportant une seule erreur chacun.
+
+Exemples :
+
+```html
+<a href="formation.html>Formation</a>
+```
+
+```html
+<img src="image/photo.jpg" alt="Photo">
+```
+
+alors que le dossier s'appelle `images`.
+
+```html
+<p>Bonjour<p>
+```
+
+Demander d'abord : « Qu'est-ce qui vous semble suspect ? » avant de donner la réponse.
+
+---
+
+# Gestion des étudiants rapides
+
+Lorsqu'un étudiant termine :
+
+1. il effectue la checklist de son propre travail ;
+2. il réalise le challenge facultatif ;
+3. il peut aider un camarade à condition de ne pas prendre son clavier ;
+4. il peut améliorer la qualité de ses textes et de ses noms de fichiers.
+
+Éviter de lui enseigner en avance CSS/JS au milieu de cette séance si cela crée un deuxième cours parallèle impossible à superviser.
+
+---
+
+# Vendredi — Présentations
+
+Demander à chaque groupe de montrer rapidement :
+
+- arborescence ;
+- accueil ;
+- navigation ;
+- une page de contenu ;
+- une difficulté ;
+- une correction issue de la recette ;
+- contribution de chaque membre.
+
+Le but n'est pas d'élire un « meilleur site » mais de vérifier compréhension et progression.
+
+---
+
+# Quiz final
+
+Reprendre plusieurs questions identiques au diagnostic du lundi. La comparaison est plus intéressante qu'un score isolé.
+
+Ajouter :
+
+1. Que contient généralement `body` ?
+2. Comment relier `index.html` à `contact.html` dans le même dossier ?
+3. Si une image se trouve dans `images/photo.jpg`, quel chemin simple utiliser depuis `index.html` situé à la racine ?
+4. Pourquoi tester réellement tous les liens ?
+5. Pourquoi une page HTML simple peut-elle fonctionner sans CSS ?
+
+Terminer par un bilan non noté : ce que chacun sait refaire seul / avec modèle / pas encore.
