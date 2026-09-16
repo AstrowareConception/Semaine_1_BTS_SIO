@@ -1,6 +1,6 @@
 # Planning horaire détaillé — Semaine 1 BTS SIO
 
-Ce planning donne le rythme prévu des 32 heures. Les horaires sont exprimés en **temps de séance** afin de pouvoir être adaptés aux horaires réels de l'établissement.
+Ce planning donne le rythme prévu des **24 heures**, réparties sur trois journées : lundi, mardi et jeudi. Les horaires sont exprimés en **temps de séance** afin de pouvoir être adaptés aux horaires réels de l'établissement.
 
 Les pauses indiquées peuvent évidemment être déplacées par l'enseignant.
 
@@ -77,20 +77,7 @@ utilisateur -> navigateur -> réseau -> Internet -> serveur
 
 ## 03:20 – 04:00 — Activité de classement et synthèse
 
-Par groupes, classer les termes :
-
-- Internet ;
-- Web ;
-- Chrome ;
-- Google ;
-- serveur ;
-- client ;
-- HTTP ;
-- DNS ;
-- routeur ;
-- HTML ;
-- Windows ;
-- URL.
+Par groupes, classer les termes : Internet, Web, Chrome, Google, serveur, client, HTTP, DNS, routeur, HTML, Windows, URL.
 
 Mise en commun et correction.
 
@@ -100,9 +87,7 @@ Mise en commun et correction.
 
 ## 00:00 – 00:20 — Réactivation
 
-Mini-quiz sur le matin.
-
-Aucune note.
+Mini-quiz sur le matin. Aucune note.
 
 ## 00:20 – 01:05 — Petite histoire d'Internet et du Web
 
@@ -143,13 +128,7 @@ Premiers codes rencontrés : `200`, `404`, `500`.
 
 ## 02:50 – 03:30 — Jeu « Le Web humain »
 
-Des étudiants jouent les rôles de :
-
-- utilisateur ;
-- navigateur ;
-- DNS ;
-- réseau ;
-- serveur.
+Des étudiants jouent les rôles de : utilisateur, navigateur, DNS, réseau et serveur.
 
 Scénarios : succès, page absente, erreur serveur, nom non résolu.
 
@@ -209,9 +188,7 @@ Objectif : savoir retrouver où se trouve un fichier.
 
 ## 02:30 – 03:15 — Premier `index.html`
 
-Écriture collective, ligne après ligne.
-
-Chaque ligne est expliquée.
+Écriture collective, ligne après ligne. Chaque ligne est expliquée.
 
 ## 03:15 – 04:00 — Première manipulation autonome
 
@@ -280,13 +257,7 @@ Créer un nouveau fichier vide et reconstruire la structure HTML sans copier imm
 
 ## 01:15 – 01:45 — Contenus de base
 
-Ajouter :
-
-- titres ;
-- paragraphes ;
-- `strong` ;
-- `em` ;
-- listes.
+Ajouter : titres, paragraphes, `strong`, `em`, listes.
 
 ## 01:45 – 02:00 — Pause
 
@@ -330,9 +301,7 @@ Construction guidée de trois pages avec navigation.
 
 ## 01:15 – 01:45 — Travail accompagné
 
-Pas de nouvelle notion.
-
-L'enseignant circule et aide à décrire les blocages.
+Pas de nouvelle notion. L'enseignant circule et aide à décrire les blocages.
 
 ## 01:45 – 02:00 — Pause
 
@@ -350,7 +319,7 @@ Unique petite nouveauté importante de l'après-midi :
 - **Standard** : trois pages, navigation, images et liens ;
 - **Challenge** : quelques recherches HTML facultatives.
 
-## 03:30 – 04:00 — Galerie de travaux
+## 03:30 – 04:00 — Galerie de travaux et bilan de la semaine
 
 Chaque étudiant observe le travail de deux autres personnes et relève :
 
@@ -358,72 +327,4 @@ Chaque étudiant observe le travail de deux autres personnes et relève :
 - une chose apprise ;
 - une question éventuelle.
 
----
-
-# Vendredi matin — 4 h
-
-## 00:00 – 00:20 — Présentation du mini-projet
-
-Lecture intégrale de l'énoncé et constitution des groupes.
-
-## 00:20 – 00:45 — Organisation
-
-Créer l'arborescence et répartir les pages.
-
-## 00:45 – 01:45 — Production — phase 1
-
-Écriture des contenus et des premières pages.
-
-## 01:45 – 02:00 — Pause
-
-## 02:00 – 03:00 — Production — phase 2
-
-Navigation, images, relecture des contenus.
-
-## 03:00 – 03:30 — Tests internes
-
-Chaque groupe teste son propre site avec la checklist.
-
-## 03:30 – 04:00 — Corrections et préparation de la recette croisée
-
-Aucune nouvelle fonctionnalité ne doit être ajoutée si les bases ne fonctionnent pas encore.
-
----
-
-# Vendredi après-midi — 4 h
-
-## 00:00 – 00:40 — Recette croisée
-
-Une équipe teste le site d'une autre équipe sans modifier son code.
-
-## 00:40 – 01:20 — Corrections
-
-Chaque groupe traite les retours et reteste.
-
-## 01:20 – 01:45 — Préparation de la présentation
-
-Préparer : objectif, organisation, difficulté, correction, contribution de chacun.
-
-## 01:45 – 02:00 — Pause
-
-## 02:00 – 02:50 — Présentations
-
-Présentations courtes selon le nombre de groupes.
-
-## 02:50 – 03:15 — Challenge final de raisonnement
-
-Petits incidents : DNS, 404, mauvais chemin, fichier absent.
-
-## 03:15 – 03:35 — Quiz final
-
-Reprise de plusieurs questions du lundi pour mesurer la progression.
-
-## 03:35 – 04:00 — Bilan individuel
-
-Chaque étudiant indique ce qu'il sait :
-
-- refaire seul ;
-- refaire avec un exemple ;
-- pas encore refaire.
-
-La semaine se termine sur les progrès réalisés et les prochaines étapes, pas sur une compétition entre étudiants.
+Les dernières minutes servent à faire un bilan très simple : ce que chacun sait refaire seul, avec un exemple, ou pas encore.
