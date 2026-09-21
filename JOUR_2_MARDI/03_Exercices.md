@@ -2,6 +2,8 @@
 
 Effectuez les exercices dans l'ordre. Le but n'est pas de terminer le plus vite possible.
 
+Avant les exercices de création, réalisez les [ateliers manipulables](ATELIERS/README.md). Ils permettent de travailler le diagnostic, les chemins et la lecture du code avec des fichiers déjà préparés.
+
 # Exercice 1 — Ma première page
 
 Créez un dossier :
@@ -121,7 +123,10 @@ Veillez à l'indentation.
 
 # Relecture croisée
 
-Échangez votre écran avec un camarade sans modifier son code immédiatement.
+Travaillez en binômes avec deux rôles :
+
+- le **pilote** présente sa page puis ne touche plus au clavier pendant deux minutes ;
+- l'**observateur** teste la page, lit le code et formule son retour sans prendre le clavier.
 
 Vérifiez :
 
@@ -135,6 +140,8 @@ Vérifiez :
 - [ ] le code est lisible.
 
 Donnez ensuite **un point positif** et **une amélioration possible**.
+
+Le pilote choisit la correction à appliquer, puis les rôles sont inversés.
 
 ---
 

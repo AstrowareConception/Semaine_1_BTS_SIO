@@ -114,16 +114,70 @@ Rester sur le modèle simplifié et préciser qu'il existe de nombreuses étapes
 
 ---
 
-# Mardi — Micro-quiz HTML
+# Mardi — Animation et activités
 
-1. Quelle partie contient le contenu visible principal : `head` ou `body` ?
-2. Quelle balise représente un paragraphe ?
-3. Quelle balise crée un lien ?
-4. À quoi sert `href` ?
-5. À quoi sert `src` sur une image ?
-6. Pourquoi renseigner `alt` ?
-7. Différence entre `ul` et `ol` ?
-8. Dans quel dossier se trouve `photo.jpg` si `src="images/photo.jpg"` ?
+Support : [diaporama complet des activités du mardi](../JOUR_2_MARDI/SUPPORTS/Support_projection_activites_mardi.pptx).
+
+Fichiers : [ateliers manipulables](../JOUR_2_MARDI/ATELIERS/README.md).
+
+Corrigé : [corrigés et conseils des ateliers du mardi](Corriges_ateliers_mardi.md).
+
+## Réactivation
+
+Utiliser les diapositives 4 à 13. Demander une réponse courte, puis une justification. Ne pas laisser la discussion dériver vers des détails réseau qui ne seront pas utilisés pendant le mardi.
+
+## Jeu HTML, CSS ou JavaScript
+
+Matérialiser trois zones. Après le déplacement, interroger deux étudiants placés dans des zones différentes. La correction porte sur le rôle général de chaque technologie, sans enseigner CSS ou JavaScript en avance.
+
+Le huitième cas peut accepter CSS ou JavaScript selon la solution décrite. Évaluer la justification plutôt que la zone seule.
+
+## Arborescence vivante
+
+Attribuer les rôles `mon-site`, `index.html`, `pages`, `profil.html`, `images` et `avatar.png`. Les rôles se placent physiquement pour représenter l'arborescence. Le reste de la classe corrige leur position avant de résoudre les chemins projetés.
+
+## Installation de VS Code
+
+Procéder par checkpoints. Un étudiant qui a terminé valide le poste d'un camarade sans prendre son clavier. Les extensions supplémentaires ne sont pas nécessaires.
+
+## Puzzle du squelette HTML
+
+Laisser trois minutes sans ordinateur. La contrainte oblige les binômes à raisonner sur la structure au lieu de tester des permutations au hasard.
+
+Lors de la correction, saisir le code ligne par ligne. Avant chaque nouvelle ligne, demander son rôle et son emplacement.
+
+## Chasse aux erreurs
+
+Utiliser les diapositives 60 à 69, puis le dossier `02_PAGE_CASSEE`.
+
+Pour chaque anomalie, imposer la séquence :
+
+1. résultat attendu ;
+2. résultat observé ;
+3. zone suspecte ;
+4. hypothèse ;
+5. modification unique ;
+6. vérification.
+
+Refuser le remplacement intégral du fichier par un squelette neuf. La compétence travaillée est le diagnostic.
+
+## Tribunal des listes
+
+Faire voter `ul` ou `ol`, puis demander si le sens changerait en mélangeant les éléments. Cette question suffit souvent à faire émerger le bon choix.
+
+## Liens, images et textes alternatifs
+
+Avant d'autoriser une correction de chemin, faire lire le déplacement avec des mots : « depuis ce fichier, je remonte, puis j'entre dans… ».
+
+Pour `alt`, accepter plusieurs formulations. La réponse dépend du rôle de l'image dans la page. Un élément purement décoratif peut recevoir un attribut vide.
+
+## Mission finale
+
+Les contraintes créatives évitent d'obtenir vingt pages identiques. Faire choisir ou voter un métier, une passion improbable et un incident technique.
+
+La relecture croisée utilise deux rôles : le pilote conserve la responsabilité de son code, l'observateur teste et formule un retour sans prendre le clavier.
+
+Terminer par le ticket de sortie projeté. Il prépare directement la réactivation du jeudi.
 
 ---
 

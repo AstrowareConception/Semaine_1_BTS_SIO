@@ -189,51 +189,76 @@ Exercices courts puis formulation individuelle :
 
 # Mardi matin — 4 h
 
-## 00:00 – 00:15 — Réactivation du lundi
+Support de la journée : [diaporama complet des activités du mardi](JOUR_2_MARDI/SUPPORTS/Support_projection_activites_mardi.pptx).
 
-Questions orales ou quiz rapide.
+Fichiers manipulables : [ateliers du mardi](JOUR_2_MARDI/ATELIERS/README.md).
 
-## 00:15 – 00:50 — De quoi est faite une page Web ?
+## 00:00 – 00:20 — Réactivation express du lundi
 
-Découverte générale :
+Support : diapositives 4 à 13.
 
-- HTML : contenu et structure ;
-- CSS : présentation ;
-- JavaScript : comportement et programmation dans le navigateur.
+Huit questions courtes réactivent Internet, le Web, le DNS, le navigateur, le serveur et les ressources reçues. Les étudiants répondent d'abord, puis justifient en une phrase avant l'écran de correction.
 
-Cette semaine, travail centré sur **HTML**.
+## 00:20 – 00:50 — Jeu « HTML, CSS ou JavaScript ? »
 
-## 00:50 – 01:30 — Fichiers, dossiers, extensions et arborescences
+Support : diapositives 14 à 24.
 
-Manipulation de structures telles que :
+Trois zones sont matérialisées dans la salle : HTML, CSS et JavaScript. Pour chaque situation projetée, les étudiants rejoignent une zone puis défendent leur choix.
+
+Le dernier cas accepte plusieurs réponses si la justification distingue correctement présentation et comportement. Aucun cours de CSS ou de JavaScript n'est ajouté : l'objectif reste de comprendre leur rôle général avant de se concentrer sur HTML.
+
+## 00:50 – 01:30 — L'enquête des fichiers
+
+Support : diapositives 25 à 40.
+
+Trois activités s'enchaînent :
+
+1. reconnaître les extensions et repérer le piège `index.html.txt` ;
+2. construire une arborescence vivante avec des étudiants jouant les fichiers et les dossiers ;
+3. résoudre six chemins à partir d'arborescences projetées.
+
+Arborescence utilisée :
 
 ```text
 mon-site/
 ├── index.html
 ├── pages/
-│   └── presentation.html
+│   └── profil.html
 └── images/
-    └── photo.jpg
+    └── avatar.png
 ```
 
-Objectif : savoir retrouver où se trouve un fichier.
+Objectif : lire un chemin comme un déplacement depuis le fichier courant.
 
 ## 01:30 – 01:45 — Pause
 
-## 01:45 – 02:30 — Installation et découverte de VS Code
+## 01:45 – 02:30 — Installation de VS Code par checkpoints
 
-- installation ;
-- ouverture d'un dossier ;
-- explorateur ;
-- création d'un fichier ;
-- sauvegarde ;
-- raccourci `Ctrl + S`.
+Support : diapositives 41 à 48.
 
-## 02:30 – 03:15 — Premier `index.html`
+Les étudiants avancent par checkpoints :
 
-Écriture collective, ligne après ligne. Chaque ligne est expliquée.
+1. créer `BTS_SIO/Semaine_1/jour_2_html` ;
+2. ouvrir le dossier complet dans VS Code ;
+3. créer exactement `index.html` ;
+4. effectuer la boucle modifier, enregistrer, actualiser, observer ;
+5. faire valider les quatre points par un binôme.
+
+Deux écrans « SOS installation » font verbaliser les vérifications avant toute intervention de l'enseignant.
+
+## 02:30 – 03:15 — Puzzle puis construction du squelette HTML
+
+Support : diapositives 49 à 58.
+
+Par deux et sans ordinateur pendant trois minutes, les étudiants remettent d'abord dix lignes HTML dans l'ordre. La correction devient ensuite le support de l'écriture collective dans VS Code.
+
+Chaque ligne est ajoutée seulement après avoir été expliquée : `DOCTYPE`, `html`, `head`, encodage, `title`, `body` et `h1`.
+
+Fichier associé : [Mission 1 — Le code en désordre](JOUR_2_MARDI/ATELIERS/01_CODE_EN_DESORDRE/README.md).
 
 ## 03:15 – 04:00 — Première manipulation autonome
+
+Support : diapositive 59.
 
 Créer une page avec :
 
@@ -245,46 +270,78 @@ Créer une page avec :
 
 L'enseignant circule. Aucune nouvelle notion pendant cette phase.
 
+Règle : si un problème apparaît, l'étudiant doit le décrire avant de modifier son code.
+
 ---
 
 # Mardi après-midi — 4 h
 
-## 00:00 – 00:20 — Quiz HTML
+## 00:00 – 00:25 — Chasse aux erreurs
 
-Vérification de la structure de base.
+Support : diapositives 60 à 69.
 
-## 00:20 – 01:00 — Titres et paragraphes
+Huit écrans présentent chacun une seule anomalie : balises incohérentes, mauvaise fermeture, imbrication, attribut, liste, extension ou fichier non enregistré.
 
-Exercices très courts avec `h1`, `h2`, `h3`, `p`, `strong`, `em`.
+Pour chaque écran : diagnostic, proposition, vote, puis correction. L'enseignant demande systématiquement « qu'est-ce qui vous semble suspect ? » avant de montrer la réponse.
 
-## 01:00 – 01:40 — Listes
+Fichier associé : [Mission 2 — La page cassée](JOUR_2_MARDI/ATELIERS/02_PAGE_CASSEE/README.md).
 
-Création de listes `ul`, `ol`, `li`.
+## 00:25 – 01:05 — Titres, paragraphes et mise en valeur
 
-Choisir entre liste ordonnée et non ordonnée selon le sens.
+Manipulations très courtes avec `h1`, `h2`, `h3`, `p`, `strong` et `em`.
+
+Alterner systématiquement : prédire le résultat, modifier le code, enregistrer, actualiser, expliquer la différence observée.
+
+## 01:05 – 01:40 — Tribunal des listes
+
+Support : diapositives 70 à 78.
+
+Six situations sont soumises au vote `ul` ou `ol`. Deux étudiants défendent des réponses opposées lorsque le choix mérite une justification. La séquence se termine par l'écriture de deux listes à partir d'un contenu brut.
 
 ## 01:40 – 01:55 — Pause
 
-## 01:55 – 02:35 — Liens
+## 01:55 – 02:35 — Liens, images et labyrinthe des chemins
 
-Créer :
+Support : diapositives 79 à 88.
 
-- un lien vers un site externe ;
-- un lien vers un autre fichier du même dossier.
+Les étudiants lisent d'abord chaque chemin avec des mots, puis valident ou corrigent le code. Les situations couvrent :
 
-## 02:35 – 03:10 — Images et chemins
+- un lien externe ;
+- un lien vers un fichier du même dossier ;
+- une image située dans `images` ;
+- une balise `a` non fermée ;
+- un nom de dossier erroné ;
+- une extension incorrecte ;
+- deux chemins utilisant `../`.
 
-Créer un dossier `images`, y placer une ressource et l'afficher avec `img`.
+Fichier associé : [Mission 3 — Le mystère des chemins](JOUR_2_MARDI/ATELIERS/03_CHEMINS_MYSTERE/README.md).
 
-Travail sur `src` et `alt`.
+## 02:35 – 03:00 — Défi des textes alternatifs
 
-## 03:10 – 03:45 — Exercice de page complète
+Support : diapositives 89 à 93.
 
-Réalisation d'une page consacrée à un personnage fictif.
+Trois situations amènent les étudiants à proposer un texte `alt` adapté au rôle de l'image : portrait informatif, logo d'identification ou élément purement décoratif.
 
-## 03:45 – 04:00 — Relecture croisée
+## 03:00 – 03:45 — Mission finale « Le personnage impossible »
 
-Un camarade vérifie : structure, lien, image, liste, indentation.
+Support : diapositives 94 à 97.
+
+Chaque étudiant crée une page complète consacrée à un personnage informatique fictif doté d'une passion improbable et confronté à un incident technique.
+
+Le travail utilise le [squelette de la mission finale](JOUR_2_MARDI/ATELIERS/04_MISSION_FINALE/README.md). Les contraintes techniques restent celles du mardi : HTML uniquement, une image locale et un lien externe.
+
+## 03:45 – 04:00 — Relecture croisée, galerie et ticket de sortie
+
+Support : diapositives 98 à 100.
+
+En binôme :
+
+- le pilote présente sa page puis lâche le clavier ;
+- l'observateur teste, décrit un point réussi et propose une amélioration ;
+- le pilote choisit la correction ;
+- les rôles sont inversés.
+
+La galerie se termine par trois votes positifs, sans classement général : page la plus claire, personnage le plus original et meilleur diagnostic d'un bug.
 
 ---
 

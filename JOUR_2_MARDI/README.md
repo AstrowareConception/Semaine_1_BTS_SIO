@@ -4,7 +4,11 @@
 
 Aujourd'hui vous allez écrire vos premières lignes de code HTML.
 
-Nous avançons volontairement lentement. Chaque notion sera immédiatement manipulée.
+Nous avançons volontairement par petites étapes. Chaque notion commence par une question, une prédiction ou un défi, puis elle est immédiatement manipulée dans Visual Studio Code.
+
+Support principal : [diaporama complet des activités du mardi](SUPPORTS/Support_projection_activites_mardi.pptx).
+
+Fichiers à utiliser : [ateliers manipulables du mardi](ATELIERS/README.md).
 
 ## Objectifs
 
@@ -26,11 +30,12 @@ Nous avançons volontairement lentement. Chaque notion sera immédiatement manip
 # Matin
 
 1. Réactivation du lundi.
-2. Comment une page Web est-elle construite ?
-3. Fichiers, dossiers, extensions et chemins.
-4. Installation de Visual Studio Code.
-5. Création du dossier de travail.
-6. Première page `index.html`.
+2. Jeu de déplacement « HTML, CSS ou JavaScript ? ».
+3. Enquête sur les extensions, les dossiers et les chemins.
+4. Arborescence vivante avec des étudiants jouant les fichiers et dossiers.
+5. Installation de Visual Studio Code avec checkpoints en binôme.
+6. Puzzle du squelette HTML.
+7. Première page `index.html`.
 
 Suivez :
 
@@ -43,13 +48,15 @@ Suivez :
 
 Nous continuons avec :
 
+- chasse aux erreurs HTML ;
 - titres ;
 - paragraphes ;
 - texte important ;
-- listes ;
-- liens ;
-- images ;
-- premiers chemins de fichiers.
+- tribunal des listes ordonnées ou non ordonnées ;
+- labyrinthe des liens et chemins ;
+- défi sur les textes alternatifs ;
+- mission créative « Le personnage impossible » ;
+- relecture croisée avec les rôles de pilote et d'observateur.
 
 Puis vous réalisez les [exercices du mardi](03_Exercices.md).
 
@@ -60,3 +67,11 @@ Puis vous réalisez les [exercices du mardi](03_Exercices.md).
 Quand votre page ne ressemble pas à ce que vous attendiez, **ne supprimez pas tout pour recommencer immédiatement**.
 
 Cherchez d'abord l'erreur. C'est une compétence essentielle en informatique.
+
+La méthode commune est :
+
+1. décrire ce qui était attendu ;
+2. décrire ce qui est observé ;
+3. formuler une hypothèse ;
+4. modifier un seul élément ;
+5. enregistrer, actualiser et vérifier.

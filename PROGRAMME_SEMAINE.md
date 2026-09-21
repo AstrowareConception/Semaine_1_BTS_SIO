@@ -85,43 +85,53 @@ Jeu de rôles et enquête : huit acteurs font circuler les messages entre l'util
 
 # Mardi — Devenir créateur : environnement de travail et HTML
 
+Le mardi reprend le format vivant du lundi : décisions collectives, déplacements, prédictions, petits défis, manipulations, diagnostics et corrections projetées. Le support complet se trouve dans [les supports du mardi](JOUR_2_MARDI/SUPPORTS/README.md).
+
 ## Matin — 4 h
 
-### Séquence 1 — Comment une page Web est-elle construite ?
+### Séquence 1 — Réactivation express
 
-Découverte des rôles généraux de HTML, CSS et JavaScript. Cette semaine, seul HTML est véritablement travaillé.
+Huit questions relient les notions du lundi à la création d'une page Web.
 
-### Séquence 2 — Fichiers, dossiers, extensions et chemins
+### Séquence 2 — La fabrique d'une page Web
 
-Manipulations de base indispensables avant de coder.
+Jeu de déplacement entre trois zones : HTML, CSS et JavaScript. Les étudiants choisissent une technologie et justifient leur réponse. Cette semaine, seul HTML est véritablement travaillé.
 
-### Séquence 3 — Installation et prise en main de Visual Studio Code
+### Séquence 3 — L'enquête des fichiers
 
-Créer un dossier de projet, l'ouvrir, créer et enregistrer un fichier.
+Détective des extensions, arborescence vivante et labyrinthe des chemins. Les étudiants apprennent à lire un chemin depuis l'emplacement du fichier courant.
 
-### Séquence 4 — Premier fichier `index.html`
+### Séquence 4 — Installation et prise en main de Visual Studio Code
 
-Écriture guidée d'une première page HTML et explication de chaque ligne.
+Création du dossier, ouverture du projet, premier fichier et boucle modifier, enregistrer, actualiser, observer. La progression utilise des checkpoints validés en binôme.
+
+### Séquence 5 — Puzzle puis premier fichier `index.html`
+
+Les étudiants remettent d'abord les lignes du squelette dans l'ordre. L'écriture guidée commence ensuite, avec une explication de chaque ligne avant sa saisie.
 
 ---
 
 ## Après-midi — 4 h
 
-### Séquence 5 — Titres, paragraphes et mise en valeur
+### Séquence 6 — Chasse aux erreurs
+
+Diagnostic de huit erreurs simples avant toute correction. Un fichier volontairement cassé permet ensuite de mener une véritable petite enquête dans VS Code.
+
+### Séquence 7 — Titres, paragraphes et mise en valeur
 
 Balises principales : `h1`, `h2`, `p`, `strong`, `em`.
 
-### Séquence 6 — Listes
+### Séquence 8 — Tribunal des listes
 
-Balises : `ul`, `ol`, `li`.
+Choisir `ul` ou `ol` en fonction du sens, défendre son choix puis écrire les deux structures avec `li`.
 
-### Séquence 7 — Liens et images
+### Séquence 9 — Liens, images et textes alternatifs
 
-Balises : `a` et `img`. Travail important sur les chemins de fichiers.
+Balises `a` et `img`, chemins relatifs, premiers usages de `../` et défi de rédaction de textes `alt` adaptés au contexte.
 
-### Séquence 8 — Premier exercice relativement autonome
+### Séquence 10 — Mission « Le personnage impossible »
 
-Construire une page complète à partir d'un énoncé, puis effectuer une relecture croisée avec un camarade.
+Construire une page complète à partir d'un brief créatif. La relecture croisée utilise les rôles de pilote et d'observateur, puis la journée se termine par une galerie et un ticket de sortie.
 
 ---
 

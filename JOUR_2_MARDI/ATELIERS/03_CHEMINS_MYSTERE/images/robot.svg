@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Petit robot pédagogique tenant une loupe</title>
+  <desc id="desc">Illustration simple d'un robot bleu observant un fichier avec une loupe.</desc>
+  <rect width="640" height="360" fill="#fff7e8"/>
+  <rect x="210" y="100" width="220" height="170" rx="28" fill="#48d6c5" stroke="#14283a" stroke-width="10"/>
+  <rect x="250" y="45" width="140" height="75" rx="22" fill="#ff8f70" stroke="#14283a" stroke-width="10"/>
+  <circle cx="290" cy="82" r="12" fill="#14283a"/>
+  <circle cx="350" cy="82" r="12" fill="#14283a"/>
+  <path d="M280 210h80" stroke="#14283a" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="465" cy="230" r="54" fill="none" stroke="#e0b44c" stroke-width="16"/>
+  <path d="M505 270l70 60" stroke="#e0b44c" stroke-width="18" stroke-linecap="round"/>
+  <rect x="75" y="120" width="110" height="145" rx="10" fill="#ffffff" stroke="#14283a" stroke-width="8"/>
+  <path d="M98 158h64M98 190h64M98 222h45" stroke="#637381" stroke-width="8" stroke-linecap="round"/>
+</svg>
+
