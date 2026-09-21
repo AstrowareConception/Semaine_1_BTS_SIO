@@ -28,23 +28,32 @@ Aujourd'hui, nous n'allons quasiment pas coder. Avant de construire un site Web,
 
 Nous commençons par découvrir le fonctionnement de la semaine, le dépôt pédagogique et les règles d'entraide.
 
-## 2. Bingo informatique
+## 2. Bingo humain projeté
 
-Vous recevrez ou recopierez une liste de situations. Votre objectif est de trouver dans la classe une personne correspondant à chacune d'elles.
+Une affirmation sera projetée à toute la classe. À votre tour, vous devrez proposer le prénom d'une personne qui, selon vous, correspond à cette affirmation.
+
+- Si vous ne savez pas ou si votre proposition ne correspond pas, l'étudiant suivant prend le relais.
+- La personne citée confirme ou dément.
+- En cas de doute, la classe peut voter à main levée.
+- Chacun a le droit de passer.
+
+Trois passages sont prévus pour chaque étudiant. Le jeu mélange expériences personnelles, talents, usages numériques et affirmations plus loufoques.
 
 Exemples :
 
-- a déjà écrit du code ;
-- n'a jamais écrit une ligne de code ;
+- a déjà voyagé en Asie ;
+- parle au moins trois langues ;
+- pratique ou a pratiqué un sport en club ;
+- a déjà écrit quelques lignes de code ;
 - a déjà démonté ou monté un ordinateur ;
-- utilise plusieurs navigateurs ;
-- sait expliquer ce qu'est une adresse IP ;
-- pense ne pas savoir expliquer ce qu'est Internet ;
-- joue régulièrement en ligne ;
-- a déjà utilisé Linux ;
-- a déjà créé une page Web.
+- a déjà parlé à son ordinateur comme s'il pouvait négocier ;
+- pense que l'ananas sur la pizza peut diviser une civilisation.
 
-Le but n'est pas de classer les étudiants. Il est de constater que le groupe possède des expériences différentes.
+Le but n'est pas de classer les étudiants. Il est de découvrir le groupe, de mémoriser progressivement les prénoms et de constater que chacun arrive avec des expériences différentes.
+
+Support utilisé par l'enseignant :
+
+- [Bingo humain projeté — 90 affirmations](SUPPORTS/Bingo_humain_projete_90_affirmations.pptx)
 
 ## 3. Quiz diagnostic
 

@@ -22,9 +22,11 @@ Objectifs : faire connaissance, découvrir la diversité des profils et comprend
 Activités :
 
 - présentation de la semaine ;
-- activité sociale « Bingo informatique » ;
+- activité sociale « Bingo humain projeté » : trois passages par étudiant, avec relais et vote de la classe ;
 - quiz diagnostic non noté ;
 - discussion sur ce que signifie « travailler dans l'informatique ».
+
+Le bingo s'appuie sur 90 affirmations mêlant expériences, talents, numérique et propositions loufoques. Il sert à faire connaissance, à apprendre les prénoms et à valoriser la diversité des profils sans installer de classement technique.
 
 ### Séquence 2 — Informatique, données et services
 

@@ -32,22 +32,40 @@ Ne pas commenter la « note ». Utiliser les réponses pour ajuster les explicat
 
 ---
 
-# Icebreaker — Bingo informatique
+# Icebreaker — Bingo humain projeté
 
-Préparer une grille contenant par exemple :
+Support prêt à projeter :
 
-- a déjà écrit du code ;
-- n'a jamais écrit de code ;
-- a déjà installé Linux ;
-- joue en ligne ;
-- connaît le mot DNS ;
-- ne sait pas encore expliquer une adresse IP ;
-- a déjà créé un site ;
-- utilise Firefox ;
-- a déjà changé un composant PC ;
-- connaît plusieurs langages de programmation de nom.
+- [Bingo humain projeté — 90 affirmations](../JOUR_1_LUNDI/SUPPORTS/Bingo_humain_projete_90_affirmations.pptx)
 
-Objectif : interaction et diagnostic informel, pas compétition.
+## Objectifs
+
+- faire circuler rapidement les prénoms ;
+- provoquer des échanges légers dès le début de la semaine ;
+- révéler la diversité des expériences sans réduire le groupe à son niveau informatique ;
+- installer le droit à l'erreur et le réflexe de relais.
+
+## Déroulement conseillé — 55 minutes
+
+1. Projeter une affirmation.
+2. Désigner l'étudiant dont c'est le tour ; il propose un prénom.
+3. La personne citée confirme ou dément, sans devoir raconter sa vie.
+4. Si l'étudiant hésite, ne sait pas ou se trompe, le suivant prend le relais sur la même affirmation.
+5. Si la correspondance prête à discussion, organiser un vote rapide à main levée.
+6. Passer aussitôt à la diapositive suivante dès qu'une correspondance est confirmée.
+
+Effectuer trois passages par étudiant. Avec 25 étudiants, cela représente 75 prises de parole ; les 15 affirmations supplémentaires permettent de remplacer une proposition inadaptée au groupe ou de prolonger l'activité si le rythme est rapide.
+
+## Règles d'animation
+
+- annoncer explicitement le droit de passer ;
+- limiter les commentaires afin de conserver le rythme ;
+- accepter une réponse inattendue si la personne citée la confirme ;
+- ne pas transformer les affirmations numériques en évaluation ;
+- écarter immédiatement une affirmation qui mettrait un étudiant mal à l'aise ;
+- utiliser les votes comme un ressort ludique, jamais comme un jugement sur une personne.
+
+Objectif : interaction et découverte du groupe, pas compétition.
 
 ---
 

@@ -8,7 +8,7 @@ Les pauses indiquées peuvent évidemment être déplacées par l'enseignant.
 
 # Lundi matin — 4 h
 
-## 00:00 – 00:30 — Accueil et découverte du groupe
+## 00:00 – 00:10 — Accueil et lancement de la semaine
 
 Objectifs :
 
@@ -17,11 +17,31 @@ Objectifs :
 - faire connaissance ;
 - constater que les niveaux de départ sont différents.
 
-Activité : **Bingo informatique**.
+Présentation rapide du déroulement de la semaine, du dépôt pédagogique et des règles d'entraide.
+
+## 00:10 – 01:05 — Bingo humain projeté
+
+Support : [Bingo humain projeté — 90 affirmations](JOUR_1_LUNDI/SUPPORTS/Bingo_humain_projete_90_affirmations.pptx).
+
+Le diaporama alterne trois familles d'affirmations :
+
+- expériences et talents ;
+- pratiques numériques ;
+- propositions volontairement loufoques.
+
+Déroulement :
+
+1. une affirmation est projetée à toute la classe ;
+2. l'étudiant dont c'est le tour cite le prénom d'une personne susceptible de correspondre ;
+3. la personne citée confirme ou dément ;
+4. si l'étudiant ne sait pas ou se trompe, le suivant prend immédiatement le relais ;
+5. en cas de doute, la classe peut voter à main levée.
+
+Prévoir **trois passages par étudiant**. Pour une classe de 25 étudiants, environ 75 affirmations seront donc utilisées ; les diapositives restantes constituent une réserve. Conserver un rythme vif, sans demander de longues justifications.
 
 Aucune compétence technique n'est attendue.
 
-## 00:30 – 00:55 — Quiz diagnostic non noté
+## 01:05 – 01:30 — Quiz diagnostic non noté
 
 Questions simples sur :
 
@@ -34,7 +54,7 @@ Questions simples sur :
 
 Consigne : répondre sans rechercher sur Internet.
 
-## 00:55 – 01:35 — Qu'est-ce que l'informatique ?
+## 01:30 – 02:00 — Qu'est-ce que l'informatique ?
 
 Cours interactif :
 
@@ -47,9 +67,9 @@ Cours interactif :
 - aperçu des métiers ;
 - présentation très brève de SLAM et SISR.
 
-## 01:35 – 01:50 — Pause
+## 02:00 – 02:15 — Pause
 
-## 01:50 – 02:35 — Internet n'est pas le Web
+## 02:15 – 02:55 — Internet n'est pas le Web
 
 Construction progressive :
 
@@ -61,7 +81,7 @@ Puis découverte de différents services utilisant Internet.
 
 Objectif central : savoir expliquer que **le Web est un service utilisant Internet**.
 
-## 02:35 – 03:20 — Le voyage d'une information
+## 02:55 – 03:30 — Le voyage d'une information
 
 Question de départ :
 
@@ -75,7 +95,7 @@ L'enseignant reconstruit ensuite un modèle simple :
 utilisateur -> navigateur -> réseau -> Internet -> serveur
 ```
 
-## 03:20 – 04:00 — Activité de classement et synthèse
+## 03:30 – 04:00 — Activité de classement et synthèse
 
 Par groupes, classer les termes : Internet, Web, Chrome, Google, serveur, client, HTTP, DNS, routeur, HTML, Windows, URL.
 
