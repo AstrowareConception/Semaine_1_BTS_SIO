@@ -51,9 +51,11 @@ Notions :
 - services utilisant Internet ;
 - différence Internet/Web.
 
+Mise en activité : les étudiants choisissent physiquement l'une des trois zones « Internet », « les deux interviennent » ou « Web », puis défendent leur décision avant la correction.
+
 ### Séquence 4 — Le voyage d'une demande
 
-Activité collective : reconstruire le trajet simplifié entre un utilisateur qui saisit une adresse dans son navigateur et le serveur qui lui répond.
+Activité collective : reconstruire le trajet simplifié entre un utilisateur qui saisit une adresse dans son navigateur et le serveur qui lui répond. Les groupes distinguent la demande et la réponse grâce à deux couleurs, puis présentent leur modèle en cinq phrases maximum.
 
 ---
 
@@ -77,7 +79,7 @@ Découverte des notions de requête et réponse, ainsi que de quelques codes HTT
 
 ### Séquence 9 — Le Web humain
 
-Jeu de rôles : utilisateur, navigateur, DNS, réseau et serveur.
+Jeu de rôles et enquête : huit acteurs font circuler les messages entre l'utilisateur, le navigateur, le DNS, le réseau et le serveur. Les autres étudiants identifient l'étape atteinte, le code observé et la cause de chaque scénario.
 
 ---
 

@@ -66,6 +66,11 @@ Lisez ensuite :
 - [Cours — Informatique, Internet et Web](01_Cours_Internet_Web.md)
 - [Activités et exercices du lundi](02_Activites_Exercices.md)
 
+Les consignes, questions et corrections des activités collectives sont projetées depuis :
+
+- [Support complet des activités du lundi](SUPPORTS/Support_projection_activites_lundi.pptx)
+- [Index des supports et repères de diapositives](SUPPORTS/README.md)
+
 ---
 
 # Après-midi — 4 heures
@@ -85,7 +90,7 @@ Support dédié :
 
 - [Histoire simplifiée d'Internet et du Web](03_Histoire_Internet_Web.md)
 
-Nous terminerons avec un jeu de rôles où la classe représentera physiquement le fonctionnement simplifié du Web.
+Nous terminerons avec un jeu de rôles où une partie de la classe représentera physiquement le fonctionnement simplifié du Web. Les autres étudiants formeront des équipes d'enquêteurs chargées de localiser l'étape où chaque scénario réussit ou échoue.
 
 ---
 

@@ -43,6 +43,8 @@ Aucune compétence technique n'est attendue.
 
 ## 01:05 – 01:30 — Quiz diagnostic non noté
 
+Support : diapositives 3 à 25 du [support complet des activités du lundi](JOUR_1_LUNDI/SUPPORTS/Support_projection_activites_lundi.pptx).
+
 Questions simples sur :
 
 - Internet ;
@@ -79,9 +81,13 @@ ordinateur -> réseau local -> routeur/box -> fournisseur d'accès -> Internet
 
 Puis découverte de différents services utilisant Internet.
 
+La mise en activité utilise ensuite trois zones dans la salle : « Internet », « les deux interviennent » et « Web ». Chaque étudiant rejoint une zone pour répondre à la situation projetée. Deux réponses différentes sont défendues avant que la correction apparaisse.
+
 Objectif central : savoir expliquer que **le Web est un service utilisant Internet**.
 
 ## 02:55 – 03:30 — Le voyage d'une information
+
+Support : diapositives 44 à 48 du [support complet des activités du lundi](JOUR_1_LUNDI/SUPPORTS/Support_projection_activites_lundi.pptx).
 
 Question de départ :
 
@@ -99,7 +105,9 @@ utilisateur -> navigateur -> réseau -> Internet -> serveur
 
 Par groupes, classer les termes : Internet, Web, Chrome, Google, serveur, client, HTTP, DNS, routeur, HTML, Windows, URL.
 
-Mise en commun et correction.
+La mise en commun prend la forme d'un « procès des mots ». L'enseignant choisit un terme discutable, par exemple Google. Deux groupes défendent des classements différents, puis la classe vote pour l'argument le plus précis.
+
+Support : diapositives 49 à 54 du [support complet des activités du lundi](JOUR_1_LUNDI/SUPPORTS/Support_projection_activites_lundi.pptx).
 
 ---
 
@@ -108,6 +116,8 @@ Mise en commun et correction.
 ## 00:00 – 00:20 — Réactivation
 
 Mini-quiz sur le matin. Aucune note.
+
+Support : diapositives 55 à 57 du [support complet des activités du lundi](JOUR_1_LUNDI/SUPPORTS/Support_projection_activites_lundi.pptx).
 
 ## 00:20 – 01:05 — Petite histoire d'Internet et du Web
 
@@ -148,11 +158,24 @@ Premiers codes rencontrés : `200`, `404`, `500`.
 
 ## 02:50 – 03:30 — Jeu « Le Web humain »
 
-Des étudiants jouent les rôles de : utilisateur, navigateur, DNS, réseau et serveur.
+Huit étudiants jouent les rôles de l'utilisateur, du navigateur, du DNS, de la box, d'Internet, du serveur, de la ressource et de l'observateur du protocole.
+
+Les autres étudiants travaillent en équipes d'enquêteurs. Pour chaque scénario, ils doivent identifier :
+
+- le dernier rôle atteint par le message ;
+- le code ou l'erreur observée ;
+- la cause formulée en une phrase.
 
 Scénarios : succès, page absente, erreur serveur, nom non résolu.
 
+Supports :
+
+- diapositives 69 à 81 du [support complet des activités du lundi](JOUR_1_LUNDI/SUPPORTS/Support_projection_activites_lundi.pptx) ;
+- [cartes du Web humain à imprimer](JOUR_1_LUNDI/SUPPORTS/Cartes_Web_humain.pdf).
+
 ## 03:30 – 04:00 — Synthèse du lundi
+
+Support : diapositives 82 à 85 du [support complet des activités du lundi](JOUR_1_LUNDI/SUPPORTS/Support_projection_activites_lundi.pptx).
 
 Exercices courts puis formulation individuelle :
 

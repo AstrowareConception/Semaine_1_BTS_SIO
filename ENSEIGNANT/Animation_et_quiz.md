@@ -17,6 +17,12 @@ Avec plus de vingt étudiants et des niveaux très disparates :
 
 # Lundi — Quiz diagnostic possible
 
+Support complet :
+
+- [Questions, activités et corrections à projeter](../JOUR_1_LUNDI/SUPPORTS/Support_projection_activites_lundi.pptx)
+- diapositives 3 à 25 pour le diagnostic ;
+- réponses détaillées dans les notes du présentateur.
+
 Questions Wooclap/Kahoot :
 
 1. Internet et le Web sont exactement la même chose. Vrai/Faux.
@@ -71,13 +77,27 @@ Objectif : interaction et découverte du groupe, pas compétition.
 
 # Lundi — Web humain
 
-Rôles possibles :
+Matériel :
+
+- [cartes de rôles, messages et scénarios à imprimer](../JOUR_1_LUNDI/SUPPORTS/Cartes_Web_humain.pdf) ;
+- diapositives 69 à 81 du [support complet des activités](../JOUR_1_LUNDI/SUPPORTS/Support_projection_activites_lundi.pptx).
+
+Huit étudiants deviennent acteurs :
 
 - utilisateur ;
-- navigateur ;
+- navigateur ou client ;
 - DNS ;
-- routeur/réseau ;
-- serveur.
+- box ou routeur ;
+- Internet ;
+- serveur Web ;
+- ressource ou page ;
+- observateur du protocole.
+
+Les autres étudiants forment des équipes de trois ou quatre enquêteurs. Après chaque scénario, chaque équipe remet un diagnostic comportant :
+
+1. le dernier rôle atteint par le message ;
+2. le code ou l'erreur observée ;
+3. une phrase expliquant la cause.
 
 Faire circuler des cartes « requête » et « réponse ».
 
@@ -88,7 +108,9 @@ Scénarios :
 3. erreur serveur — 500 ;
 4. échec de résolution de nom.
 
-Rester sur le modèle simplifié et préciser qu'il existe de nombreuses étapes supplémentaires dans un échange réel.
+Changer les acteurs après deux scénarios. Les premiers acteurs rejoignent alors les enquêteurs. Attribuer un point par élément correct, sans transformer le résultat en note.
+
+Rester sur le modèle simplifié et préciser qu'il existe de nombreuses étapes supplémentaires dans un échange réel. La réussite du jeu repose sur la qualité du diagnostic, pas sur la vitesse.
 
 ---
 
