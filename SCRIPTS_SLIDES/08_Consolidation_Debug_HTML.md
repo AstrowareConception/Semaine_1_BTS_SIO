@@ -156,7 +156,7 @@ Ouvrez-la réellement. Cliquez sur tous les liens. Vérifiez toutes les images. 
 
 Cette vérification s'appelle déjà, à petite échelle, une forme de **recette** ou de test d'acceptation.
 
-Vendredi, une autre équipe testera votre site. Elle trouvera peut-être des problèmes auxquels vous n'aviez pas pensé : c'est précisément l'intérêt du test croisé.
+Jeudi, une autre équipe testera votre site. Elle trouvera peut-être des problèmes auxquels vous n'aviez pas pensé : c'est précisément l'intérêt du test croisé.
 
 ---
 

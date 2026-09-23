@@ -168,9 +168,9 @@ Vous allez donc volontairement rencontrer des problèmes cette semaine. Certains
 
 ---
 
-## Slide 16 — Notre objectif pour vendredi
+## Slide 16 — Notre objectif pour jeudi
 
-Vendredi soir, l'objectif n'est pas que vous soyez développeur ou administrateur réseau. Il est que vous puissiez regarder un site Web différemment.
+Jeudi soir, l'objectif n'est pas que vous soyez développeur ou administrateur réseau. Il est que vous puissiez regarder un site Web différemment.
 
 Vous devrez être capables d'expliquer grossièrement comment une page arrive jusqu'à votre navigateur, de distinguer Internet du Web, de comprendre quelques mots comme serveur, DNS ou HTTP, et surtout de créer vous-mêmes un petit site constitué de plusieurs pages HTML.
 

@@ -135,51 +135,54 @@ Construire une page complète à partir d'un brief créatif. La relecture crois�
 
 ---
 
-# Jeudi — Consolider sans précipiter
+# Jeudi — Laboratoire HTML : pratiquer toute la journée
 
 ## Matin — 4 h
 
-Aucune course aux nouvelles balises. L'objectif principal est de savoir refaire et réutiliser les notions de mardi.
+Aucun nouveau cours magistral. L'objectif principal est de refaire, réutiliser, diagnostiquer et expliquer les notions déjà rencontrées.
 
-### Séquence 1 — Réactivation
+### Séquence 1 — Réactivation sans modèle
 
-Quiz et correction commentée.
+Reconstruction d'une page depuis un fichier vide, puis correction commentée.
 
-### Séquence 2 — Recréer une page depuis zéro
+### Séquence 2 — Sprint de micro-exercices
 
-Reconstruction de la structure HTML sans copier un fichier déjà préparé.
+Exercices courts sélectionnés dans la [banque de 40 exercices](JOUR_3_JEUDI/04_BANQUE_40_EXERCICES.md), selon trois parcours différenciés.
 
-### Séquence 3 — Consolider titres, paragraphes, listes, liens et images
+### Séquence 3 — Carrousel de débogage
 
-Nombreux petits exercices.
+Six fichiers volontairement cassés : balises, imbrication, chemins, navigation, tableaux et formulaires.
 
-### Séquence 4 — Passer d'une page à plusieurs pages
+### Séquence 4 — Structures, navigation, données et formulaires
 
-Création de `index.html`, `formation.html` et `loisirs.html`, puis création de liens entre les pages.
+Ancres internes, pages sémantiques, mini-site, tableaux et formulaires selon l'avancement de chacun.
 
 ---
 
 ## Après-midi — 4 h
 
-### Séquence 5 — Atelier « Mon premier petit site »
+### Séquence 5 — Correction ciblée et deuxième sprint
 
-Créer un site de plusieurs pages en suivant une arborescence imposée.
+La classe choisit trois difficultés réellement rencontrées, les corrige, puis reprend son parcours.
 
-### Séquence 6 — Une seule nouvelle notion : les commentaires HTML
+### Séquence 6 — Défi en binôme
 
-Organisation et lisibilité du code.
+Le pilote écrit ; l'observateur contrôle la checklist sans toucher au clavier. Les rôles sont ensuite inversés.
 
-### Séquence 7 — Travail différencié
+### Séquence 7 — Mini-projet au choix
 
-- niveau Essentiel ;
-- niveau Standard ;
-- niveau Challenge.
+- fiche pratique ;
+- recette impossible ;
+- guide touristique fictif ;
+- bestiaire numérique ;
+- festival étudiant ;
+- aventure hypertexte.
 
-Le niveau Essentiel représente le socle attendu. Les challenges ne sont pas obligatoires.
+Un [thème CSS prêt à l'emploi](JOUR_3_JEUDI/SUPPORTS/README.md) peut être relié aux pages, sans être étudié ni modifié. Les productions doivent rester correctes lorsqu'il est retiré.
 
-### Séquence 8 — Galerie de travaux et bilan
+### Séquence 8 — Recette croisée, galerie et bilan
 
-Observation des réalisations des autres, échange d'astuces et retour rapide sur ce que chacun sait désormais refaire seul ou avec un modèle.
+Test du projet d'un autre binôme, démonstration d'un bug résolu et bilan de ce que chacun sait refaire seul, avec un modèle ou pas encore.
 
 ---
 

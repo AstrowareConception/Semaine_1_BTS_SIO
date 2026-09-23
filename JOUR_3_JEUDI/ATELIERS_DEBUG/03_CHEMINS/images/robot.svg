@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320" role="img" aria-labelledby="title desc">
+  <title id="title">Robot violet</title>
+  <desc id="desc">Un petit robot violet lève le bras pour saluer.</desc>
+  <rect width="480" height="320" fill="#eee8ff"/>
+  <rect x="140" y="80" width="200" height="150" rx="28" fill="#7755c7"/>
+  <circle cx="200" cy="145" r="18" fill="white"/>
+  <circle cx="280" cy="145" r="18" fill="white"/>
+  <path d="M190 195 Q240 230 290 195" fill="none" stroke="white" stroke-width="10"/>
+  <path d="M140 125 L85 70" stroke="#7755c7" stroke-width="24" stroke-linecap="round"/>
+  <path d="M340 125 L390 165" stroke="#7755c7" stroke-width="24" stroke-linecap="round"/>
+</svg>

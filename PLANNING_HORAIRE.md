@@ -347,84 +347,58 @@ La galerie se termine par trois votes positifs, sans classement général : page
 
 # Jeudi matin — 4 h
 
-## 00:00 – 00:30 — Réactivation après la coupure du mercredi
+## 00:00 – 00:20 — Défi de remise en route
 
-Kahoot/Wooclap et correction commentée.
+Sans ancien fichier, reconstruire le squelette minimal, un titre d'onglet, un `h1`, un paragraphe et une liste.
 
-## 00:30 – 01:15 — Refaire une page depuis zéro
+## 00:20 – 01:05 — Sprint de micro-exercices
 
-Créer un nouveau fichier vide et reconstruire la structure HTML sans copier immédiatement le cours.
+Support : [banque de 40 exercices](JOUR_3_JEUDI/04_BANQUE_40_EXERCICES.md) et [parcours différenciés](JOUR_3_JEUDI/05_PARCOURS_JOURNEE_COMPLETE.md).
 
-## 01:15 – 01:45 — Contenus de base
+## 01:05 – 01:45 — Carrousel de débogage
 
-Ajouter : titres, paragraphes, `strong`, `em`, listes.
+Support : [six fichiers volontairement cassés](JOUR_3_JEUDI/ATELIERS_DEBUG/README.md). Rotation toutes les huit minutes ; diagnostic écrit avant correction.
 
 ## 01:45 – 02:00 — Pause
 
-## 02:00 – 02:45 — Créer plusieurs pages
+## 02:00 – 02:45 — Structures et navigation
 
-Création de :
+Pages sémantiques, navigation entre plusieurs pages, ancres internes, figures, FAQ ou glossaire selon le parcours.
 
-```text
-index.html
-formation.html
-loisirs.html
-```
+## 02:45 – 03:35 — Données et formulaires
 
-Puis premiers liens entre elles.
+Tableaux, emploi du temps, formulaire de contact ou questionnaire selon le parcours.
 
-## 02:45 – 03:30 — Ajouter des images
+## 03:35 – 04:00 — Validation intermédiaire
 
-Création du dossier `images` et révision des chemins.
-
-## 03:30 – 04:00 — Exercice autonome de consolidation
-
-Aucune nouvelle notion. L'enseignant se concentre sur les personnes bloquées.
+Chaque étudiant montre un exercice réussi et un blocage rencontré. Le binôme doit pouvoir expliquer le diagnostic.
 
 ---
 
 # Jeudi après-midi — 4 h
 
-## 00:00 – 00:20 — Correction collective de problèmes fréquents
+## 00:00 – 00:20 — Correction collective ciblée
 
-Exemples :
+La classe choisit trois difficultés réellement rencontrées le matin et les reconstruit collectivement.
 
-- fichier mal nommé ;
-- extension incorrecte ;
-- chemin erroné ;
-- fichier non enregistré ;
-- lien vers un fichier absent.
+## 00:20 – 01:05 — Deuxième sprint différencié
 
-## 00:20 – 01:15 — Atelier « Mon premier petit site »
+Poursuite du parcours ou changement de famille d'exercices. Les plus autonomes travaillent les défis créatifs et l'accessibilité.
 
-Construction guidée de trois pages avec navigation.
+## 01:05 – 01:45 — Défi en binôme
 
-## 01:15 – 01:45 — Travail accompagné
-
-Pas de nouvelle notion. L'enseignant circule et aide à décrire les blocages.
+Une personne pilote ; l'autre pose des questions et contrôle la checklist sans toucher au clavier. Inversion après vingt minutes.
 
 ## 01:45 – 02:00 — Pause
 
-## 02:00 – 02:30 — Commentaires HTML
+## 02:00 – 03:20 — Mini-projet au choix
 
-Unique petite nouveauté importante de l'après-midi :
+Support : [six mini-projets HTML](JOUR_3_JEUDI/06_MINI_PROJETS.md). Le [thème CSS fourni](JOUR_3_JEUDI/SUPPORTS/README.md) est facultatif et n'a pas à être compris.
 
-```html
-<!-- commentaire -->
-```
+## 03:20 – 03:45 — Recette croisée
 
-## 02:30 – 03:30 — Exercices différenciés
+Un autre binôme teste navigation, liens, images, structure, formulaires et lisibilité du code sans prendre le clavier.
 
-- **Essentiel** : deux pages fonctionnelles ;
-- **Standard** : trois pages, navigation, images et liens ;
-- **Challenge** : quelques recherches HTML facultatives.
+## 03:45 – 04:00 — Démonstration et bilan de la semaine
 
-## 03:30 – 04:00 — Galerie de travaux et bilan de la semaine
-
-Chaque étudiant observe le travail de deux autres personnes et relève :
-
-- une bonne idée ;
-- une chose apprise ;
-- une question éventuelle.
-
-Les dernières minutes servent à faire un bilan très simple : ce que chacun sait refaire seul, avec un exemple, ou pas encore.
+Chaque binôme présente une réussite, un bug intéressant et la méthode employée pour le résoudre. Le fichier `bilan.txt` distingue : seul, avec un modèle, pas encore.
