@@ -147,7 +147,7 @@ Reconstruction d'une page depuis un fichier vide, puis correction commentée.
 
 ### Séquence 2 — Sprint de micro-exercices
 
-Exercices courts sélectionnés dans la [banque de 40 exercices](JOUR_3_JEUDI/04_BANQUE_40_EXERCICES.md), selon trois parcours différenciés.
+Exercices sélectionnés dans la [banque de 48 exercices](JOUR_3_JEUDI/04_BANQUE_40_EXERCICES.md), des micro-défis aux missions longues, selon trois parcours différenciés.
 
 ### Séquence 3 — Carrousel de débogage
 

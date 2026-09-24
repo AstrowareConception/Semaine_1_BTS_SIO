@@ -50,10 +50,12 @@ Les parcours évitent deux pièges : attendre lorsque l'on a terminé et accumul
 
 1. exercices 33 et 34 ;
 2. défis 35 à 40 ;
-3. mini-projet E ou F avec au moins quatre pages ;
+3. une mission longue 41 à 48 ou le mini-projet E ou F avec au moins quatre pages ;
 4. audit d'accessibilité et de navigation du projet d'un camarade.
 
 **Réussite attendue :** produire un site structuré, navigable au clavier, cohérent sans CSS et utilisable lorsque le CSS fourni est retiré.
+
+Un étudiant qui termine rapidement les objectifs du parcours ne cumule pas artificiellement les petits exercices : il choisit l'une des missions 41 à 48 et la mène jusqu'à une véritable recette croisée.
 
 ## Changer de parcours
 

@@ -203,7 +203,7 @@ alors que le dossier s'appelle `images`.
 
 Demander d'abord : « Qu'est-ce qui vous semble suspect ? » avant de donner la réponse.
 
-La journée complète s'appuie ensuite sur la [banque de 40 exercices](../JOUR_3_JEUDI/04_BANQUE_40_EXERCICES.md), les [trois parcours](../JOUR_3_JEUDI/05_PARCOURS_JOURNEE_COMPLETE.md) et les [ateliers de débogage](../JOUR_3_JEUDI/ATELIERS_DEBUG/README.md). Le [corrigé enseignant](Corriges_jeudi_pratique.md) permet de valider rapidement sans imposer une solution unique.
+La journée complète s'appuie ensuite sur la [banque de 48 exercices](../JOUR_3_JEUDI/04_BANQUE_40_EXERCICES.md), les [trois parcours](../JOUR_3_JEUDI/05_PARCOURS_JOURNEE_COMPLETE.md) et les [ateliers de débogage](../JOUR_3_JEUDI/ATELIERS_DEBUG/README.md). Les exercices 41 à 48 sont des missions longues réservées aux étudiants ayant validé le socle. Le [corrigé enseignant](Corriges_jeudi_pratique.md) permet de valider rapidement sans imposer une solution unique.
 
 Le thème CSS fourni est un habillage facultatif : aider seulement à écrire la balise `link`, puis revenir à l'évaluation du HTML. Chaque production doit rester compréhensible lorsque cette ligne est désactivée.
 
@@ -218,7 +218,7 @@ Lorsqu'un étudiant termine :
 3. il peut aider un camarade à condition de ne pas prendre son clavier ;
 4. il peut améliorer la qualité de ses textes et de ses noms de fichiers.
 
-Il peut également choisir un exercice 35 à 40 ou enrichir l'un des six mini-projets, sans attendre une nouvelle consigne collective.
+Il peut également choisir un exercice 35 à 40, puis basculer sur une mission longue 41 à 48 ou enrichir l'un des six mini-projets, sans attendre une nouvelle consigne collective.
 
 Éviter de lui enseigner en avance CSS/JS au milieu de cette séance si cela crée un deuxième cours parallèle impossible à superviser.
 

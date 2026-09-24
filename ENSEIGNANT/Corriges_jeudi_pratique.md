@@ -85,6 +85,32 @@ Pour l'image inexistante, deux réponses sont acceptables : ajouter une vraie re
 
 Valider si le défi respecte toutes ses contraintes, fonctionne sans CSS, emploie des balises adaptées au sens et peut être expliqué. La créativité ne compense pas une navigation cassée, mais une apparence rudimentaire ne pénalise jamais un HTML solide.
 
+## Exercices 41 à 48 — Missions longues
+
+Ces missions ne possèdent volontairement pas de corrigé unique. Avant de valider, contrôler les invariants suivants :
+
+1. toutes les pages et tous les dossiers demandés existent ;
+2. la navigation fonctionne depuis la racine comme depuis les sous-dossiers ;
+3. chaque page possède un `title`, un `h1` unique et un `main` unique ;
+4. les balises imposées sont utilisées pour leur sens, pas seulement pour leur apparence ;
+5. toutes les images sont locales, affichées, décrites par un `alt` adapté et créditées ;
+6. tableaux et formulaires restent compréhensibles au clavier et sans CSS ;
+7. les volumes de contenu demandés sont respectés ;
+8. l'étudiant peut montrer un problème rencontré et expliquer sa résolution.
+
+### Points de vigilance particuliers
+
+- **41 — Tintin :** cinq pages, quatre aventures réellement développées, CV distinct du récit des aventures, page Milou, tableau de compétences, formulaire et sources. Ne pas exiger l'utilisation d'images protégées trouvées au hasard : accepter des visuels fournis, des illustrations personnelles ou des images réutilisables et créditées.
+- **42 — Sherlock Holmes :** chemins avec `../`, trois affaires, raisonnement visible avant la conclusion et tableaux d'indices cohérents.
+- **43 — Musée :** six objets distincts, catalogue structuré, informations de visite, FAQ et formulaire correctement étiqueté.
+- **44 — Phileas Fogg :** quatre étapes détaillées, navigation précédent/suivant, tableau d'itinéraire et retours corrects depuis `etapes/`.
+- **45 — Festival :** tableau accessible, huit artistes, trois lieux et formulaire structuré en groupes logiques.
+- **46 — Phénomènes :** cinq dossiers comparables, métadonnées dans `dl`, hypothèses contradictoires et formulaire utilisable au clavier.
+- **47 — Mythologie :** huit créatures, quatre traditions, sources explicites et absence de caricature culturelle.
+- **48 — Hypertexte :** quinze scènes, quatre fins, trois objets, deux énigmes, boucle volontaire et aucune impasse accidentelle.
+
+Une mission longue est considérée comme excellente lorsque le site peut être testé sans explication orale préalable, puis que son auteur sait justifier son arborescence, ses chemins relatifs et ses choix sémantiques.
+
 ## Grille rapide pour les mini-projets
 
 | Critère | 0 | 1 | 2 |

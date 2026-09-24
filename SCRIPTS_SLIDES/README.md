@@ -31,7 +31,7 @@ Le reste des **24 heures** est volontairement réservé à la pratique. Pour ce 
 
 - **Lundi** : présentations 1 à 4, entrecoupées de quiz, échanges et activités.
 - **Mardi** : présentations 5, 6 et début de la 7, avec de nombreuses manipulations dans VS Code.
-- **Jeudi** : fin éventuelle de la présentation 7 et présentation 8, puis laboratoire de pratique : 40 exercices, ateliers de débogage, parcours différenciés et mini-projet.
+- **Jeudi** : fin éventuelle de la présentation 7 et présentation 8, puis laboratoire de pratique : 48 exercices, ateliers de débogage, parcours différenciés et mini-projet.
 
 ## Convention de rédaction pour Gamma
 

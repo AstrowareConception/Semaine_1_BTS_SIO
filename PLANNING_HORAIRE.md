@@ -353,7 +353,7 @@ Sans ancien fichier, reconstruire le squelette minimal, un titre d'onglet, un `h
 
 ## 00:20 – 01:05 — Sprint de micro-exercices
 
-Support : [banque de 40 exercices](JOUR_3_JEUDI/04_BANQUE_40_EXERCICES.md) et [parcours différenciés](JOUR_3_JEUDI/05_PARCOURS_JOURNEE_COMPLETE.md).
+Support : [banque de 48 exercices](JOUR_3_JEUDI/04_BANQUE_40_EXERCICES.md) et [parcours différenciés](JOUR_3_JEUDI/05_PARCOURS_JOURNEE_COMPLETE.md).
 
 ## 01:05 – 01:45 — Carrousel de débogage
 

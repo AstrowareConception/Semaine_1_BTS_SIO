@@ -22,7 +22,7 @@ Le but est de transformer ce que vous avez vu mardi en gestes que vous êtes cap
 
 Vous disposez de :
 
-- [40 exercices courts et progressifs](04_BANQUE_40_EXERCICES.md) ;
+- [48 exercices, des micro-défis aux missions longues](04_BANQUE_40_EXERCICES.md) ;
 - [trois parcours pour avancer à son rythme](05_PARCOURS_JOURNEE_COMPLETE.md) ;
 - [six mini-projets au choix](06_MINI_PROJETS.md) ;
 - [six ateliers avec des fichiers volontairement cassés](ATELIERS_DEBUG/README.md) ;
